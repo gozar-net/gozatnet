@@ -1,0 +1,5 @@
+[
+  { "name": "FastVPN", "price": "70000", "speed": 4.5, "security": 4.7, "rating": 4.6 },
+  { "name": "SafeConnect", "price": "65000", "speed": 4.0, "security": 4.9, "rating": 4.8 },
+  { "name": "ShieldNet", "price": "85000", "speed": 4.8, "security": 4.6, "rating": 4.7 }
+]
